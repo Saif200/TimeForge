@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // or deploy to the root, set base to '/'.
 export default defineConfig({
   plugins: [react()],
-  base: '/timeforge/',
+  base: '/TimeForge/',
 })
